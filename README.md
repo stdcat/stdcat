@@ -39,4 +39,4 @@ Here are some ideas to get you started:
   </p>
   
   ### Contact me
-  Email : [i@stdcat.com]()
+  Email : [liangsiqi@connect.hku.hk]()
